@@ -1,6 +1,6 @@
 # memories
 
-In the repo I have created a MERN stack application called memories
+In the repo I have created a MERN stack application called memories. I have started this project while i was leaning MERN stack 
 
 The backend is done in expressjs. The user is able to create a post, update a post, delete a post, get a post and user authentication.
 It also interface a REST API.
